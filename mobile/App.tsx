@@ -24,7 +24,7 @@ if(!fontsLoaded){
 
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Open abriu up App.tsx to start working on your app!</Text>
+      <Text style={styles.text}>Open abri up App.tsx to start working on your app!</Text>
       <StatusBar barStyle='light-content' backgroundColor='transparent' translucent />
     </View>
   );
